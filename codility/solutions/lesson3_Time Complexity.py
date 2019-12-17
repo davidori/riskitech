@@ -2,7 +2,7 @@
 
 # FrogJmp
 #solution 1
-import math # use of meth 
+import math # use of math 
 
 def solution(X, Y, D):
     if( X == Y):
