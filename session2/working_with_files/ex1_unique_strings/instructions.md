@@ -1,4 +1,4 @@
-Create a program which parse the file happy_strings.txt as follow:<br>
+Create a program which parse the file happy_strings.txt as follows:<br>
 
 Stage 1:<br>
 Write a function that prints the file to the screen<br>
