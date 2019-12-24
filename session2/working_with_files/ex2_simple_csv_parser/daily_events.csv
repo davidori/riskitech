@@ -1,7 +1,7 @@
-timestamp, action, effect
-1576535934, Pizza, Yammi
-1544599934, Eatting Hummus, Sleep
-1544699934, Classwork, Headache behind eye
-1544799934, Watch Netflix, did not get to do homework 
-1544899934, Surf the web, did not get to do homework
-1534999934, Learn Python, Headache behind eye
+timestamp,action,effect
+1576535934,Pizza,Yammi
+1544599934,Eatting Hummus,Sleep
+1544699934,Classwork, Headache behind eye
+1544799934,Watch Netflix,did not get to do homework
+1544899934,Surf the web,did not get to do homework
+1534999934,Learn Python,Headache behind eye

@@ -11,7 +11,7 @@ Write a function that returns a dictionary containing the number of occurrences 
 (key = word, value = count i.e {'riskified' : 2 })<br>
 
 5 - python<br>
-2 - riskified<br>
+3 - riskified<br>
 13 - docker<br>
 17 - dns<br>
 11 - aws<br>
